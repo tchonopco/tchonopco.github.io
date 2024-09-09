@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tchonopco.github.io/sitemap.html.gz
+Sitemap: https://tchonopco.github.io/app/sitemap.html.gz
+Sitemap: https://tchonopco.github.io/assets/sitemap.html.gz
+Sitemap: https://tchonopco.github.io/css/sitemap.html.gz
+Sitemap: https://tchonopco.github.io/includes/sitemap.html.gz
+Sitemap: https://tchonopco.github.io/item/sitemap.html.gz
+Sitemap: https://tchonopco.github.io/src/sitemap.html.gz
